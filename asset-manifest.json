@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bushu-peer.github.io/csb-dw8te/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://bushu-peer.github.io/csb-dw8te/static/js/main.c7ca0664.chunk.js",
+    "main.js.map": "https://bushu-peer.github.io/csb-dw8te/static/js/main.c7ca0664.chunk.js.map",
+    "runtime-main.js": "https://bushu-peer.github.io/csb-dw8te/static/js/runtime-main.a2542d5b.js",
+    "runtime-main.js.map": "https://bushu-peer.github.io/csb-dw8te/static/js/runtime-main.a2542d5b.js.map",
+    "static/js/2.3c512aec.chunk.js": "https://bushu-peer.github.io/csb-dw8te/static/js/2.3c512aec.chunk.js",
+    "static/js/2.3c512aec.chunk.js.map": "https://bushu-peer.github.io/csb-dw8te/static/js/2.3c512aec.chunk.js.map",
+    "index.html": "https://bushu-peer.github.io/csb-dw8te/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://bushu-peer.github.io/csb-dw8te/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.3c512aec.chunk.js.LICENSE.txt": "https://bushu-peer.github.io/csb-dw8te/static/js/2.3c512aec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2542d5b.js",
+    "static/js/2.3c512aec.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c7ca0664.chunk.js"
+  ]
+}
